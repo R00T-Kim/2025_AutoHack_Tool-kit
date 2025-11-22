@@ -1,5 +1,7 @@
 python-can
 opencv-python
 pytesseract
-numpy
+numpy==1.16.4
 scapy
+djitellopy
+urh
