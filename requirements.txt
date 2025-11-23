@@ -1,7 +1,8 @@
 python-can
 opencv-python
 pytesseract
-numpy==1.16.4
+numpy<2
 scapy
 djitellopy
 urh
+packaging
