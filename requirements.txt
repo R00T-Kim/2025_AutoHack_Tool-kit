@@ -6,3 +6,4 @@ scapy
 djitellopy
 urh
 packaging
+cantools
